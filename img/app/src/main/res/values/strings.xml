@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NumberGuessing</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_view1_text">Guess the Number</string>
+    <string name="button1_text">Press Me</string>
+    <string name="text_view2_text">Enter Number</string>
+</resources>
